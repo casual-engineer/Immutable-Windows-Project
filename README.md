@@ -1,2 +1,5 @@
 # Immutable-Windows-Project
-No bugs policy
+
+ This project is mainly for small businesses. 
+
+ Large corporations will need mutable windows systems for information security purposes...
